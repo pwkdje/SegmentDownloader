@@ -114,7 +114,3 @@ downloader.saveDirectory = [NSSearchPathForDirectoriesInDomains(NSCachesDirector
 ## 示例项目
 
 包含在 `Example/` 目录中的示例项目演示了如何使用此下载器。
-
-## 许可证
-
-MIT 许可证 - 详情见 LICENSE 文件
